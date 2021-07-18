@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 💻 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on small and medium size projects 
-- 📫 You can reach me by email or twitter @b4np3nfugy0
+- 📫 You can reach me by email or twitter @spiritencoded
 
 <!---
 jmichaelseri/jmichaelseri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
