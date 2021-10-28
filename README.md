@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junior Seri
-- 👀 I’m interested in web development
-- 💻 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in Front end web development
+- 💻 I’m currently learning React js
 - 💞️ I’m looking to collaborate on small and medium size projects 
 - 📫 You can reach me by email or twitter @spiritencoded
 
