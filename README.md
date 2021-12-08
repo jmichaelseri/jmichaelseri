@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junior Seri
-- 👀 I’m interested in Front end web development
-- 💻 I’m currently learning React js
+- 👀 I’m into Front end web development
+- 💻 I’m currently learning React and the Shopify platform
 - 💞️ I’m looking to collaborate on small and medium size projects 
 - 📫 You can reach me by email or twitter @spiritencoded
 
